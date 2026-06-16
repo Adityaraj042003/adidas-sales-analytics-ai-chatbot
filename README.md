@@ -43,24 +43,21 @@ Used for image handling and customization within the dashboard interface.
 Used as the primary data source containing 9,649 Adidas sales records for analysis and visualization.
 
 ---
-
 ## 📌 Table of Contents
 
 - [Overview](#overview)
-* Business Problem
-* Solution
-* Dataset
-* Project Structure
-* Dashboard Features
-* AI Chatbot Features
-* Business Impact
-* Why Streamlit Instead of Tableau?
-* Future Enhancements
-* How to Run This Project
-* Author & Contact
-
+- [Business Problem](#business-problem)
+- [Solution](#solution)
+- [Dataset](#dataset)
+- [Project Structure](#project-structure)
+- [Dashboard Features](#dashboard-features)
+- [AI Chatbot Features](#ai-chatbot-features)
+- [Business Impact](#business-impact)
+- [Why Streamlit Instead of Tableau?](#why-streamlit-instead-of-tableau)
+- [Future Enhancements](#future-enhancements)
+- [How to Run This Project](#how-to-run-this-project)
+- [👨‍💻Author & Contact](#author--contact)
 ---
-
 ## Overview
 
 Organizations generate large amounts of sales data every day, but extracting meaningful insights from spreadsheets can be difficult and time-consuming.
