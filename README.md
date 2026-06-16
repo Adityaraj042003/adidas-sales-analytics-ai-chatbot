@@ -46,7 +46,7 @@ Used as the primary data source containing 9,649 Adidas sales records for analys
 
 ## 📌 Table of Contents
 
-* Overview
+- [Overview](#overview)
 * Business Problem
 * Solution
 * Dataset
