@@ -230,6 +230,11 @@ Future versions of the project may include:
 * Multi-dataset analytics support
 
 ---
+## AI Chatbot Demo Questions
+
+A collection of real-world business questions that can be answered by the AI chatbot is available here:
+
+📄 Adidas_AI_Assistant_Business_Questions.docx
 
 ## How to Run This Project
 
