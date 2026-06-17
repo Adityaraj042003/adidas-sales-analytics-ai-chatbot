@@ -1,10 +1,10 @@
 # Adidas Sales Analytics Dashboard with AI Chatbot
 
-##🌐Live Application
+🌐Live Application
 
 Experience the live dashboard here:
 
-🔗 [https://adidas-sales-ai-dashboard.streamlit.app/
+🔗 https://adidas-sales-ai-dashboard.streamlit.app/
 
 An AI-powered sales analytics solution designed to help business users analyze sales performance, identify growth opportunities, and make data-driven decisions through interactive dashboards and intelligent business recommendations.
 
