@@ -1,14 +1,25 @@
 # Adidas Sales Analytics Dashboard with AI Chatbot
 
-🌐Live Application
+### 🚀 Live Application
 
-Experience the live dashboard here:
+🔗 **Live Demo:** https://adidas-sales-ai-dashboard.streamlit.app
 
-🔗 https://adidas-sales-ai-dashboard.streamlit.app/
+### 📌 Project Overview
 
-An AI-powered sales analytics solution designed to help business users analyze sales performance, identify growth opportunities, and make data-driven decisions through interactive dashboards and intelligent business recommendations.
+An AI-powered Sales Analytics Dashboard developed using **Streamlit, Pandas, Plotly, and Google Gemini AI** to help business users analyze sales performance, identify growth opportunities, and make data-driven decisions through interactive visualizations and intelligent business recommendations.
 
----
+### 🎯 Key Highlights
+
+* Interactive Sales Analytics Dashboard
+* Retailer, State, Region, and Product Analysis
+* Operating Profit Analysis
+* Monthly Sales Trend Analysis
+* Downloadable Filtered Data
+* AI-Powered Business Insights
+* Marketing Strategy Recommendations
+* Executive Summary Generation
+* Google Gemini AI Chatbot Integration
+* Cloud Deployment using Streamlit Community Cloud
 
 ## 🛠 Tools & Technologies
 
